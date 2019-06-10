@@ -1,4 +1,4 @@
-package com.yangyuxi.yx_projectutil.yx_log;
+package com.yangyuxi.yx_projectutil.YXLog;
 
 import java.util.Calendar;
 

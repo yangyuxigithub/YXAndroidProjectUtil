@@ -1,4 +1,4 @@
-package com.yangyuxi.yx_projectutil.yx_dateutil;
+package com.yangyuxi.yx_projectutil.YXDateUtil;
 
 import java.text.DateFormat;
 import java.text.ParseException;

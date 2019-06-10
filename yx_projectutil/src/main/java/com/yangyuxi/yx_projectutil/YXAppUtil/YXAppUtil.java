@@ -1,4 +1,4 @@
-package com.yangyuxi.yx_projectutil.yx_apputil;
+package com.yangyuxi.yx_projectutil.YXAppUtil;
 
 import android.app.Activity;
 import android.app.ActivityManager;
